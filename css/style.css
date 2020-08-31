@@ -1,0 +1,97 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+.my__nav {
+  background-color: #003333;
+  color: white !important;
+}
+.login__btn {
+  width: 100px !important;
+}
+
+.hover__effect--nav:hover {
+  color: #ff701b !important;
+}
+
+button {
+  border-radius: 30px !important;
+}
+
+/* hero section  */
+
+.hero__section {
+  background-color: #003333;
+}
+.hero__section_height {
+  height: 500px;
+}
+.good__at_section_text {
+  color: #00cccc;
+}
+
+.good__at_section--border {
+  display: inline-block !important;
+  width: 200px;
+  border-bottom: 2px solid #00cccc;
+  margin-top: 0px;
+}
+.card {
+  border: none !important;
+}
+.portfolio__section{
+  background-color: #EFF7FA;
+}
+
+
+.team__section  {
+  background-color: #EFF7FA;
+}
+
+.team__member{
+  color: #33cccc;
+}
+.sponsor__logo_section img{
+  height: 50px !important;
+}
+
+.start__project_section{
+   background-color: #003333;
+}
+.start__project_section_height{
+  height: 300px;
+}
+
+.subscription__section{
+  background-color: #ffcc00;
+}
+
+.form-control{
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid black;
+  padding: 0 10px;
+}
+.form-control:focus{
+  /* border: none;
+  background-color: none !important;
+  border-bottom: 1px solid black; */
+
+  box-shadow: inset 0 -1px 0 #ddd;
+
+}
+
+.footer__section{
+  background-color: #003333;
+}
+
+
+.fa-pencil-alt,
+.fa-charging-station,
+.fa-tv{
+  color:#00cccc
+
+}
+
+div{
+  overflow: hidden !important;
+}
